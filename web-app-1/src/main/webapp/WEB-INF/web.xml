@@ -5,5 +5,11 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
+<<<<<<< Updated upstream
   <display-name>welcome to java classes</display-name>
 </web-app>
+=======
+  <hi>welcome to devapps</hi>
+<web-app>
+  
+>>>>>>> Stashed changes
